@@ -1,4 +1,4 @@
-![Alt text](nodejs-mongodb-crud.png
+![Alt text](nodejs-mongodb-crud.png)
 ![Alt text](nodejs-mongodb-crud2.png)
 
 Node.js, Express & MongoDB: Simple Add, Edit, Delete, View (CRUD)
